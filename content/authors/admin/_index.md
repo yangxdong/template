@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 杨晓东
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xiaodong Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiaodong
+last_name: Yang
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 副研究员
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 中国科学院计算技术研究所
+    url: www.ict.ac.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
