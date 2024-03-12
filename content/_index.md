@@ -70,7 +70,7 @@ sections:
           date_end: ''
           date_start: '2024-03-23'
           description: ''
-          icon: caai
+          icon: org-gc
           organization: 中国人工智能协会
           organization_url: https://caai.cn/index.php?s=/home/index/index.html
           title: 获得2023年度吴文俊人工智能科学技术奖技术发明二等奖，3/6
