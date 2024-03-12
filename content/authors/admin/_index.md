@@ -3,7 +3,7 @@
 title: Xiaodong Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Xiaodong Yang
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Xiaodong
