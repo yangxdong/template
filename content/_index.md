@@ -190,7 +190,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Internship available
+        Internship available.
       # Contact (add or remove contact options as necessary)
       email: yangxiaodong@ict.ac.cn
       # phone: 888 888 88 88
