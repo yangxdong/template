@@ -56,7 +56,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'News'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -70,10 +70,10 @@ sections:
           date_end: ''
           date_start: '2024-03-23'
           description: ''
-          # icon: coursera
+          icon: images/caai.jpeg
           organization: 中国人工智能协会
           organization_url: https://caai.cn/index.php?s=/home/index/index.html
-          title: 2023年度吴文俊人工智能科学技术奖技术发明二等奖
+          title: 获得2023年度吴文俊人工智能科学技术奖技术发明二等奖，3/6
           url: ''
     design:
       columns: '2'
