@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨晓东
+title: Xiaodong Yang
 
 # Name pronunciation (optional)
 name_pronunciation: Xiaodong Yang
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 副研究员
+role: Associated Reseacher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 中国科学院计算技术研究所
+  - name: Institute of Computing Technology, Chinese Academy of Sciences
     url: www.ict.ac.cn
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,18 +29,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - 联邦学习
-  - 多模态学习
-  - 基因语言大模型
+  - Federated Learning
+  - Multimodal Fusion
+  - Large Language Models (LLMs) for Gene 
 
 # Education to show in About widget
 education:
   courses:
-    - course: 博士学位
-      institution: 中国科学院计算技术研究所
+    - course: Ph.D in Computer Application Technology
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
       year: 2013-2020
-    - course: 学士学位
-      institution: 山东师范大学
+    - course: Bachelor in Computer Science and Technology
+      institution: Shandong Normal University
       year: 2009-2013
 
 
