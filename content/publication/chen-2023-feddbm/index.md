@@ -2,7 +2,7 @@
 title: 'FedDBM: Federated Digital Biomarker for Detecting Parkinson’s Disease Progress'
 authors:
 - Yiqiang Chen
-- Xiaodong Yang
+- admin
 - Yuting He
 - Chunyan Miao
 - Piu Chan

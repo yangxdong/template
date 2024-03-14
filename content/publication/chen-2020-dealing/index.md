@@ -2,7 +2,7 @@
 title: Dealing with label quality disparity in federated learning
 authors:
 - Yiqiang Chen
-- Xiaodong Yang
+- admin
 - Xin Qin
 - Han Yu
 - Piu Chan

@@ -3,7 +3,7 @@ title: Class-wise adaptive self distillation for heterogeneous federated learnin
 authors:
 - Yuting He
 - Yiqiang Chen
-- Xiaodong Yang
+- admin
 - Yingwei Zhang
 - Bixiao Zeng
 date: '2022-01-01'

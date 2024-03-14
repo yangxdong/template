@@ -3,7 +3,7 @@ title: "PdAssist: Objective and quantified symptom assessment of Parkinson's dis
   via smartphone"
 authors:
 - Yiqiang Chen
-- Xiaodong Yang
+- admin
 - Biao Chen
 - Chunyan Miao
 - Hanchao Yu
