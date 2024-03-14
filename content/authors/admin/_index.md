@@ -117,5 +117,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an associated researcher of artificial intelligence at the Center of Ubiquitous Computing System, Institute of Computing Technology, Chinese Academy of Sciences. My research interests include pervasive computing, federated learning, incremental learning and multimodal fusion for healthcare applications. Recently, I am working on a project that builds large language models (LLMs) for single-cell transcriptomics. I have been supported by projects from NSFC and National R&D Plan.
+I am an associated researcher of artificial intelligence at the Center of Ubiquitous Computing System, Institute of Computing Technology, Chinese Academy of Sciences. My research interests include pervasive computing, federated learning, incremental learning and multimodal fusion for healthcare applications. Recently, I am working on a project that builds large language models (LLMs) for single-cell transcriptomics. I have been supported by projects from NSFC， National R&D Plan and Beijing Municipal Science & Technology Commission.
 {style="text-align: justify;"}

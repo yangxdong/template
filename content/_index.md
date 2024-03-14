@@ -199,7 +199,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Internship available.
+        Internship opportunity  available @ Beijing and Jinan.
       # Contact (add or remove contact options as necessary)
       email: yangxiaodong@ict.ac.cn
       # phone: 888 888 88 88
